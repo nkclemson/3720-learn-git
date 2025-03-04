@@ -7,7 +7,7 @@ Contributors list
 | Clemson Username | git username | group number |
 | ---------------- | ------------ | ------------ |
 | nkandel          | nkclemson    | None         | 
-| asallas          | Asalllas     | 2            |
+| asallas          | Asallas     | 2            |
 |                  |              |              |
 
 
