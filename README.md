@@ -7,7 +7,7 @@ Contributors list
 | Clemson Username | git username | group number |
 | ---------------- | ------------ | ------------ |
 | nkandel          | nkclemson    | None         | 
-|                  |              |              |
+| ksurise          | ksurisetty11 | 12           |
 |                  |              |              |
 
 
