@@ -7,7 +7,7 @@ Contributors list
 | Clemson Username | git username | group number |
 | ---------------- | ------------ | ------------ |
 | nkandel          | nkclemson    | None         | 
-| gbuonan          |  gbuonan     | 4             |
+| gbuonan          |  gbuonan     | 4            |
 |                  |              |              |
 
 
