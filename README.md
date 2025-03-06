@@ -7,11 +7,10 @@ Contributors list
 | Clemson Username | git username | group number |
 | ---------------- | ------------ | ------------ |
 | nkandel          | nkclemson    | None         | 
+| klam2            | LumpyTacos   | 12           |
 |                  |              |              |
-|                  |              |              |
 
 
 
 
-After creating a pull request, please fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSetIAN2gDV-wMiUzSFfr5HDyGCIutqriJvERc6XbsEayAnvpg/viewform?usp=sharing).
-
+After creating a pull request, please fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSetIAN2gDV-wMiUzSFfr5HDyGCIutqriJvERc6XbsEayAnvpg/viewform?usp=sharing)
