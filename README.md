@@ -7,7 +7,7 @@ Contributors list
 | Clemson Username | git username | group number |
 | ---------------- | ------------ | ------------ |
 | nkandel          | nkclemson    | None         | 
-| elchild          | elchild      | 9            |
+| elchild          | elchild8213  | 9            |
 |                  |              |              |
 
 
