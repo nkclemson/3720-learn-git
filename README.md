@@ -7,7 +7,7 @@ Contributors list
 | Clemson Username | git username | group number |
 | ---------------- | ------------ | ------------ |
 | nkandel          | nkclemson    | None         | 
-|                  |              |              |
+| dharve3          | dharve3 / D-Guy2157 | 3            | <!-- NOTE: Both of these are me, I just have SSH keys setup on my personal, yet store school assignments on my school account -->
 |                  |              |              |
 
 
