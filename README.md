@@ -7,7 +7,7 @@ Contributors list
 | Clemson Username | git username | group number |
 | ---------------- | ------------ | ------------ |
 | nkandel          | nkclemson    | None         | 
-|                  |              |              |
+| edemarc          | SunnyDrizzle | Team 12      |
 |                  |              |              |
 
 
