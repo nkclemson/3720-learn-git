@@ -7,7 +7,7 @@ Contributors list
 | Clemson Username | git username | group number |
 | ---------------- | ------------ | ------------ |
 | nkandel          | nkclemson    | None         | 
-|                  |              |              |
+| usye             | busa8908     | 06           |
 |                  |              |              |
 
 
