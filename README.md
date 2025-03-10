@@ -7,7 +7,7 @@ Contributors list
 | Clemson Username | git username | group number |
 | ---------------- | ------------ | ------------ |
 | nkandel          | nkclemson    | None         | 
-|                  |              |              |
+| bkroll           | bkroll25     | 7            |
 |                  |              |              |
 
 
