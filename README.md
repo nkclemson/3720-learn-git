@@ -17,9 +17,7 @@ If you don't have Git installed, please follow the installation instructions at 
 
 ## ⚠️ Important: Complete the Form
 
-> **After creating a pull request, you MUST fill out this [form](https://forms.gle/R1MZwAtRNPkqXVgQ7).**
->
-> **Your assignment is not complete until you submit the form.**
+> **After creating a pull request, you fill out this [form](https://forms.gle/XAtmmWEEpyjTRdg57).**
 
 
 ## Common Issues
