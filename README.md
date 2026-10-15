@@ -10,7 +10,7 @@ If you don't have Git installed, please follow the installation instructions at 
 
 | Clemson Username | GitHub Username | Group Number |
 | ---------------- | --------------- | ------------ |
-| nkandel          | nkclemson       | None         |
+| tagray           | Cheezz18        | 13           |
 |                  |                 |              |
 |                  |                 |              |
 
