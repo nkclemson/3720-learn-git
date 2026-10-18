@@ -11,9 +11,10 @@ If you don't have Git installed, please follow the installation instructions at 
 | Clemson Username | GitHub Username | Group Number |
 | ---------------- | --------------- | ------------ |
 | nkandel          | nkclemson       | None         |
-|                  |                 |              |
+| clejahd          | clejdan         | 4            |
 |                  |                 |              |
 
+Fun fact about cj: I speak fluent spanish; both spain and latin america dialects.
 
 ## ⚠️ Important: Complete the Form
 
