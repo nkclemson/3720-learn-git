@@ -1,3 +1,5 @@
+<!-- @format -->
+
 # 3720 - Learn Git
 
 ## Setting Up Git
@@ -11,14 +13,12 @@ If you don't have Git installed, please follow the installation instructions at 
 | Clemson Username | GitHub Username | Group Number |
 | ---------------- | --------------- | ------------ |
 | nkandel          | nkclemson       | None         |
+| bmuindi          | NevahLucky      | 3            |
 |                  |                 |              |
-|                  |                 |              |
-
 
 ## ⚠️ Important: Complete the Form
 
 > **After creating a pull request, you fill out this [form](https://forms.gle/XAtmmWEEpyjTRdg57).**
-
 
 ## Common Issues
 
@@ -28,10 +28,10 @@ If you don't have Git installed, please follow the installation instructions at 
 
 You can find instructions on how to:
 
-* Set up an SSH key
-* Check whether an SSH key already exists
-* Add your SSH key to GitHub
-* Verify that your SSH connection is working
+- Set up an SSH key
+- Check whether an SSH key already exists
+- Add your SSH key to GitHub
+- Verify that your SSH connection is working
 
 Follow the official GitHub instructions [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh).
 
@@ -42,4 +42,3 @@ If you are still experiencing issues, please email me or visit me during office 
 ### Issue 2: Unable to Run Any of the Steps
 
 **Fix:** Check whether you have completed all the previous steps correctly. Make sure each step was executed successfully before proceeding to the next one.
-
